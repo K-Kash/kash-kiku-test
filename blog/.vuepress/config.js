@@ -5,6 +5,7 @@ module.exports = {
   dirname: "_posts",
   path: "/",
   title: "Kiku-Kash",
+  theme: '@vuepress/theme-blog',
   theme: "blog-vuetify",
 
   plugins: ["@vuepress/back-to-top", "@vuepress/plugin-active-header-links"],
