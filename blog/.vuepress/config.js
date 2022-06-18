@@ -1,6 +1,6 @@
 module.exports = {
   dest: "public",
-  hostname: "https://superlative-dango-ee82a6.netlify.app",
+  hostname: "https://kash-kiku-test",
   id: "post",
   dirname: "_posts",
   path: "/",
