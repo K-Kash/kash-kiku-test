@@ -1,11 +1,10 @@
 module.exports = {
   dest: "public",
-  hostname: "http://62ad75d31fced3000816bf5f--kash-kiku-test",
+  hostname: "http://kash-kiku-test",
   id: "post",
   dirname: "_posts",
   path: "/",
   title: "Kiku-Kash",
-  theme: '@vuepress/theme-blog',
   theme: "blog-vuetify",
 
   plugins: ["@vuepress/back-to-top", "@vuepress/plugin-active-header-links"],
