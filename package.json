@@ -9,6 +9,6 @@
     "build": "vuepress build blog"
   },
   "dependencies": {
-    "vuepress-theme-meteorlxy": "^1.9.0"
+    "vuepress-theme-blog-vuetify": "^1.6.2"
   }
 }
