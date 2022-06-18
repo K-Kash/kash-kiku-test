@@ -12,3 +12,5 @@
     "vuepress-theme-meteorlxy": "^1.9.0"
   }
 }
+echo 'node_modules' >> .gitignore
+echo 'public' >> .gitignore
