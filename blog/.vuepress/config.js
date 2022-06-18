@@ -1,6 +1,6 @@
 module.exports = {
-  dest: "public",
-  hostname: "https://main--kash-kiku-test",
+  dest: "dist",
+  hostname: "https://kash-kiku-test",
   id: "post",
   dirname: "_posts",
   path: "/",
